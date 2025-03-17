@@ -1,2 +1,2 @@
+[Download the PDF](ChrisNguyen.pdf)
 
-\includegraphics[]{ChrisNguyen.pdf}
