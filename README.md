@@ -1,1 +1,2 @@
-# ChrisNguyen
+
+\includegraphics[]{ChrisNguyen.pdf}
