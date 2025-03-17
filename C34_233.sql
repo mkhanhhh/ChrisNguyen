@@ -1,8 +1,3 @@
-/* Sneha Sneha 48689246
--- Vu Hong Nhung Nguyen 48478148
--- Minh Khanh Nguyen 48291056
- Anghus Fulmer Woods 48326348
-*/
 
 -- Question-A
 -- Table Creation (Incomplete and Erroneous - please fix the errors and complete this section)
